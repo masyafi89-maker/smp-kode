@@ -203,6 +203,30 @@
 "q": "Aplikasi tidak mau terbuka atau layar kosong",
 "k": "tidak terbuka layar kosong putih blank loading macet muat ulang refresh",
 "a": "Muat ulang halaman, lalu coba Chrome terbaru. Matikan pemblokir iklan atau VPN sementara. Kalau masih sama, kirim screenshot ke WhatsApp kami."
+},
+{
+"w": "app",
+"q": "Bagaimana cara memakai gambar karakter sendiri?",
+"k": "gambar karakter master referensi unggah upload foto tokoh stabil konsisten wajah sama pendukung",
+"a": "Di langkah 1, buka bagian \"Gambar karakter dan logo\". Unggah gambar karakter dan benda pendukung (PNG berlatar transparan paling bagus), beri nama pendek dan keterangan, misalnya \"anak laki-laki berbaju biru\". Lalu kirim adegan ke AI seperti biasa: nama dan keterangan gambar ikut dikirim, dan AI memakai gambar itu apa adanya supaya tampilannya sama di semua adegan.\nCatatan: gambar bergerak seperti sticker (geser, membal, membalik, memutar, membesar). Tangan dan kaki di dalam gambar tidak ikut bergerak. Gambar tidak tersimpan kalau halaman ditutup, jadi unggah lagi saat membuka aplikasi."
+},
+{
+"w": "app",
+"q": "Gambar karakter tidak muncul di animasi",
+"k": "gambar karakter tidak muncul hilang tidak dipakai ai tidak ikut animasi referensi",
+"a": "Pastikan gambarnya diunggah sebelum kamu mengirim adegan ke AI. Adegan yang dibuat sebelum gambar diunggah perlu dikirim ulang supaya AI memakainya. Pastikan juga nama gambar pendek dan tanpa spasi, dan keterangannya jelas. Kalau AI tidak memakainya, tulis di kolom ide adegan: pakai gambar dengan nama itu."
+},
+{
+"w": "app",
+"q": "Bagaimana cara menambahkan logo ke video?",
+"k": "logo watermark tambah pasang tempel capcut merek brand tanda air",
+"a": "Di langkah 1, buka \"Gambar karakter dan logo\", lalu pilih logo di bagian 2. Atur posisi, ukuran, dan transparansi. Logo muncul di pratinjau dan ikut tertanam di video MP4, jadi tidak perlu edit lagi di CapCut. Posisi atas disarankan supaya tidak menabrak subtitle. Logo tidak tersimpan kalau halaman ditutup, jadi pasang lagi sebelum ekspor."
+},
+{
+"w": "app",
+"q": "Latar putih di gambar atau logo terlihat kotak",
+"k": "latar putih kotak background transparan hapus polos png jpg",
+"a": "Centang \"Hapus latar polos\" di samping gambar atau logo tersebut. Ini bekerja untuk latar satu warna rata. Kalau latarnya bergambar atau bertekstur, pakai PNG yang sudah berlatar transparan."
 }
 ]
 }
