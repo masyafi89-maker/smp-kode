@@ -1,232 +1,250 @@
 {
-"faq": [
-{
-"w": "jual",
-"q": "Berapa harganya?",
-"k": "harga biaya bayar rp 69000 69rb promo berapa mahal",
-"a": "Rp 69.000 sekali bayar, khusus untuk 100 pembeli pertama. Setelah kuota itu habis, harga akan naik."
-},
-{
-"w": "jual",
-"q": "Apa arti seumur hidup?",
-"k": "seumur hidup lifetime selamanya langganan bulanan berulang",
-"a": "Akses tanpa biaya berulang, termasuk perbaikan dan pembaruan selama aplikasi ini dijual dan dikembangkan."
-},
-{
-"w": "jual",
-"q": "Bagaimana cara membeli?",
-"k": "beli membeli pembelian pesan order bayar transfer cara",
-"a": "1. Klik tombol beli di halaman penjualan, kamu diarahkan ke WhatsApp kami.\n2. Lakukan pembayaran.\n3. Kirim email Gmail yang akan kamu pakai untuk login.\n4. Setelah emailnya kami daftarkan (sekitar 5-10 menit), kamu menerima link dan cara masuk."
-},
-{
-"w": "jual",
-"q": "Apakah ada biaya per video?",
-"k": "biaya per video bayar tambahan kuota gratis",
-"a": "Dari kami tidak ada. Biaya yang mungkin muncul hanya dari penyedia AI yang kamu pakai (misalnya batas pemakaian akun AI atau kuota suara Gemini), dan itu mengikuti aturan mereka."
-},
-{
-"w": "jual",
-"q": "Apa yang perlu disiapkan?",
-"k": "siapkan butuh perlu syarat persyaratan akun ai chatgpt claude gemini kunci api key",
-"a": "Kamu butuh: (1) akun email Gmail untuk login, (2) akun AI chat seperti Claude, ChatGPT, atau Gemini untuk membuat naskah dan animasi, dan (3) kunci Gemini sendiri bila ingin membuat suara. Batas pemakaian AI mengikuti aturan penyedianya."
-},
-{
-"w": "jual",
-"q": "Perlu bisa edit video?",
-"k": "edit editing skill pemula bisa awam mudah",
-"a": "Tidak. Kamu hanya perlu bisa menyalin dan menempel teks ke AI. Panduan ada di layar."
-},
-{
-"w": "jual",
-"q": "Bisa dipakai di HP?",
-"k": "hp handphone android iphone ponsel smartphone laptop komputer perangkat",
-"a": "Bisa dibuka di HP, tetapi membuat video (ekspor) paling lancar di komputer dengan Chrome atau Edge terbaru. Video panjang di HP lama bisa lambat."
-},
-{
-"w": "jual",
-"q": "Apakah hasilnya selalu sesuai naskah?",
-"k": "hasil kualitas sesuai naskah bagus jelek gambar",
-"a": "Gambar dibuat oleh AI dari naskahmu, jadi kualitasnya tergantung AI yang dipakai dan naskahnya. Kamu bisa memberi ide gambar sendiri dan merevisi adegan yang kurang pas, satu per satu."
-},
-{
-"w": "jual",
-"q": "Boleh dipakai untuk jualan atau konten berbayar?",
-"k": "komersial jualan jual monetisasi iklan bisnis konten berbayar boleh lisensi",
-"a": "Video yang kamu buat boleh kamu pakai. Pastikan juga mengikuti syarat layanan AI dan suara yang kamu gunakan."
-},
-{
-"w": "jual",
-"q": "Bagaimana kalau tidak bisa dipakai? Apakah ada refund?",
-"k": "refund kembali uang kembalikan garansi tidak bisa rusak batal pengembalian",
-"a": "Hubungi kami lewat WhatsApp. Kalau aplikasi tetap tidak bisa berjalan di perangkatmu setelah dibantu, pembayaran bisa dikembalikan."
-},
-{
-"w": "all",
-"q": "Apakah naskah dan kunci API saya aman?",
-"k": "aman privasi data kunci api key naskah disimpan simpan hapus ingat",
-"a": "Video dibuat di browsermu. Naskah hanya dikirim ke AI yang kamu pilih. Kunci API hanya tersimpan di browsermu kalau kamu mencentang \"Ingat kunci\", dan bisa dihapus kapan saja lewat tombol Hapus kunci."
-},
-{
-"w": "all",
-"q": "Apakah ada musik atau efek suara?",
-"k": "musik efek suara sound backsound bgm lagu",
-"a": "Belum ada. Kamu bisa menambahkan musik di aplikasi editing atau saat mengunggah ke TikTok, Reels, atau Shorts."
-},
-{
-"w": "all",
-"q": "Apakah bisa animasi 3D?",
-"k": "3d tiga dimensi animasi karakter",
-"a": "Saat ini hanya animasi 2D bergaya motion. Animasi 3D belum tersedia."
-},
-{
-"w": "app",
-"q": "Bagaimana cara masuk ke aplikasi?",
-"k": "login masuk cara akses google email password daftar",
-"a": "Buka link aplikasi di Chrome atau Safari. Klik Masuk dengan Google dan pilih akun Gmail yang kamu daftarkan saat membeli. Atau klik Daftar dengan email yang sama, lalu buka email verifikasi dan klik linknya, kemudian kembali dan klik Masuk."
-},
-{
-"w": "app",
-"q": "Login Google gagal atau error di HP",
-"k": "login google gagal error hp iphone android whatsapp popup diblokir initial state safari chrome tidak bisa masuk",
-"a": "Biasanya karena link dibuka dari dalam WhatsApp atau Instagram. Buka linknya di Chrome atau Safari (klik titik tiga, pilih Buka di browser). Kalau masih gagal, pakai Daftar atau Masuk dengan email dan password."
-},
-{
-"w": "app",
-"q": "Muncul pesan email belum terdaftar sebagai pembeli",
-"k": "belum terdaftar pembeli ditolak tidak ditemukan email salah akun tidak bisa masuk",
-"a": "Pastikan kamu memakai email yang sama dengan yang kamu kirim ke kami saat membeli. Kalau sudah benar tapi tetap ditolak, tunggu sekitar 5-10 menit setelah emailnya kami daftarkan, lalu coba lagi. Kalau masih sama, hubungi kami lewat WhatsApp."
-},
-{
-"w": "app",
-"q": "Email verifikasi tidak masuk",
-"k": "verifikasi email tidak masuk link konfirmasi spam kotak masuk belum diverifikasi",
-"a": "Tunggu beberapa menit, lalu cek folder Spam atau Promosi. Setelah mengklik link verifikasi, kembali ke aplikasi dan klik Masuk. Kalau tetap tidak ada, hubungi kami."
-},
-{
-"w": "app",
-"q": "Lupa password",
-"k": "lupa password sandi reset ganti kata sandi",
-"a": "Isi emailmu di kolom Email, lalu klik Lupa password. Link reset dikirim ke email itu (cek juga folder Spam). Atau langsung pakai Masuk dengan Google."
-},
-{
-"w": "app",
-"q": "Bagaimana cara mengganti email login?",
-"k": "ganti email pindah akun baru ubah email login",
-"a": "Hubungi kami lewat WhatsApp dan kirim email barumu. Kami daftarkan emailnya, lalu kamu bisa masuk dengan email baru itu."
-},
-{
-"w": "app",
-"q": "Muncul pesan akses tidak aktif atau kedaluwarsa",
-"k": "tidak aktif kedaluwarsa expired dicabut akses habis nonaktif",
-"a": "Artinya akses untuk email atau kode itu sedang dinonaktifkan. Hubungi kami lewat WhatsApp untuk dicek."
-},
-{
-"w": "app",
-"q": "Bagaimana cara membuat kunci Gemini?",
-"k": "kunci gemini api key buat membuat cara dapat ai studio google bikin dapatkan daftar mengambil",
-"a": "1. Buka aistudio.google.com/apikey dan login dengan akun Google.\n2. Klik Create API key.\n3. Salin kuncinya.\n4. Tempel di langkah 2 (Suara) di aplikasi. Centang Ingat kunci kalau mau tersimpan di browser itu saja."
-},
-{
-"w": "app",
-"q": "Tidak bisa terhubung ke Gemini",
-"k": "gemini tidak bisa terhubung gagal koneksi error kunci salah invalid api",
-"a": "Cek: (1) kunci disalin lengkap, tanpa spasi, (2) internet aktif, (3) aplikasi dibuka langsung di Chrome atau Safari, bukan dari dalam aplikasi lain, (4) matikan pemblokir iklan atau VPN sementara. Lalu coba lagi."
-},
-{
-"w": "app",
-"q": "Pembuatan suara berhenti di tengah",
-"k": "suara berhenti kuota habis limit batas harian gemini tts tengah adegan stop",
-"a": "Gemini membatasi pemakaian gratis per menit dan per hari. Aplikasi menunggu otomatis lalu melanjutkan. Suara yang sudah jadi tersimpan dan tidak dibuat ulang. Kalau batas harian habis, lanjutkan besok atau pakai kunci dari akun Google lain."
-},
-{
-"w": "app",
-"q": "Suara membacakan instruksi gaya atau terdengar aneh",
-"k": "suara membaca instruksi arahan gaya nada aneh salah dibacakan",
-"a": "Coba pilih nada lain atau kosongkan kolom arahan tambahan, lalu buat suara adegan itu lagi. Aplikasi sudah otomatis mencoba ulang tanpa instruksi kalau suaranya terlalu panjang."
-},
-{
-"w": "app",
-"q": "Bagaimana alur membuat video?",
-"k": "alur langkah cara membuat video tutorial mulai panduan",
-"a": "Ada 5 langkah: 1) isi tema dan naskah, pilih gaya, 2) pilih suara, 3) kirim ke AI dan tempel jawabannya untuk animasi, 4) periksa hasilnya, 5) ekspor MP4."
-},
-{
-"w": "app",
-"q": "Bagaimana cara mengirim ke AI dan menempel jawabannya?",
-"k": "kirim ai prompt tempel paste jawaban salin copy claude chatgpt gemini ctrl v",
-"a": "Pilih AI yang kamu punya, klik Kirim. Prompt tersalin otomatis, buka chat AI-nya lalu tempel (Ctrl+V atau tahan lama di HP). Tunggu jawaban AI selesai, salin semua jawabannya, lalu tempel di kotak jawaban di aplikasi."
-},
-{
-"w": "app",
-"q": "Adegan menampilkan error atau tidak ada animasi",
-"k": "adegan error animasi bermasalah tidak ada kosong rusak perbaiki ulang",
-"a": "Buka langkah 3 dan 4, kirim ulang hanya adegan yang bermasalah ke AI, lalu tempel jawabannya lagi. Pastikan jawaban AI ditempel utuh."
-},
-{
-"w": "app",
-"q": "Gambar tidak sesuai dengan naskah",
-"k": "gambar tidak sesuai naskah salah ide revisi ubah jelek",
-"a": "Tulis ide gambar sendiri untuk adegan itu (kolom ide), lalu kirim ulang adegan tersebut ke AI. Kamu bisa merevisi satu adegan tanpa mengulang yang lain."
-},
-{
-"w": "app",
-"q": "Subtitle terpotong atau tidak kelihatan",
-"k": "subtitle takarir teks terpotong tidak kelihatan bawah panjang kalimat",
-"a": "Subtitle sekarang otomatis naik dan kalimat panjang dipecah per bagian. Untuk hasil terbaik, buat satu baris naskah tidak lebih dari sekitar 12 kata."
-},
-{
-"w": "app",
-"q": "Ekspor MP4 gagal atau lambat",
-"k": "ekspor export mp4 gagal lambat unduh download video lama macet tidak bisa",
-"a": "Pakai Chrome atau Edge terbaru di komputer. Jangan tutup atau pindah tab saat proses. Pilih 720p supaya lebih cepat. Video panjang di HP lama memang bisa lambat."
-},
-{
-"w": "app",
-"q": "Video hasil tidak ada suaranya",
-"k": "video tidak ada suara bisu senyap audio hilang",
-"a": "Pastikan suara sudah dibuat di langkah 2 sebelum ekspor, dan volume perangkat tidak mati. Putar dulu di pratinjau aplikasi untuk memastikan suaranya ada."
-},
-{
-"w": "app",
-"q": "Berapa maksimal adegan dan durasi video?",
-"k": "maksimal batas adegan durasi panjang video berapa lama detik menit",
-"a": "Maksimal 20 adegan per video. Durasi bisa diatur otomatis dari suara, atau manual antara 10 sampai 300 detik."
-},
-{
-"w": "app",
-"q": "Bolehkah akun dibagikan ke orang lain?",
-"k": "bagikan berbagi akun orang lain teman share pinjam",
-"a": "Akses berlaku untuk email yang didaftarkan. Mohon tidak membagikan akun. Akses yang disalahgunakan bisa dinonaktifkan."
-},
-{
-"w": "app",
-"q": "Aplikasi tidak mau terbuka atau layar kosong",
-"k": "tidak terbuka layar kosong putih blank loading macet muat ulang refresh",
-"a": "Muat ulang halaman, lalu coba Chrome terbaru. Matikan pemblokir iklan atau VPN sementara. Kalau masih sama, kirim screenshot ke WhatsApp kami."
-},
-{
-"w": "app",
-"q": "Bagaimana cara memakai gambar karakter sendiri?",
-"k": "gambar karakter master referensi unggah upload foto tokoh stabil konsisten wajah sama pendukung",
-"a": "Di langkah 1, buka bagian \"Gambar karakter dan logo\". Unggah gambar karakter dan benda pendukung (PNG berlatar transparan paling bagus), beri nama pendek dan keterangan, misalnya \"anak laki-laki berbaju biru\". Lalu kirim adegan ke AI seperti biasa: nama dan keterangan gambar ikut dikirim, dan AI memakai gambar itu apa adanya supaya tampilannya sama di semua adegan.\nCatatan: gambar bergerak seperti sticker (geser, membal, membalik, memutar, membesar). Tangan dan kaki di dalam gambar tidak ikut bergerak. Gambar tidak tersimpan kalau halaman ditutup, jadi unggah lagi saat membuka aplikasi."
-},
-{
-"w": "app",
-"q": "Gambar karakter tidak muncul di animasi",
-"k": "gambar karakter tidak muncul hilang tidak dipakai ai tidak ikut animasi referensi",
-"a": "Pastikan gambarnya diunggah sebelum kamu mengirim adegan ke AI. Adegan yang dibuat sebelum gambar diunggah perlu dikirim ulang supaya AI memakainya. Pastikan juga nama gambar pendek dan tanpa spasi, dan keterangannya jelas. Kalau AI tidak memakainya, tulis di kolom ide adegan: pakai gambar dengan nama itu."
-},
-{
-"w": "app",
-"q": "Bagaimana cara menambahkan logo ke video?",
-"k": "logo watermark tambah pasang tempel capcut merek brand tanda air",
-"a": "Di langkah 1, buka \"Gambar karakter dan logo\", lalu pilih logo di bagian 2. Atur posisi, ukuran, dan transparansi. Logo muncul di pratinjau dan ikut tertanam di video MP4, jadi tidak perlu edit lagi di CapCut. Posisi atas disarankan supaya tidak menabrak subtitle. Logo tidak tersimpan kalau halaman ditutup, jadi pasang lagi sebelum ekspor."
-},
-{
-"w": "app",
-"q": "Latar putih di gambar atau logo terlihat kotak",
-"k": "latar putih kotak background transparan hapus polos png jpg",
-"a": "Centang \"Hapus latar polos\" di samping gambar atau logo tersebut. Ini bekerja untuk latar satu warna rata. Kalau latarnya bergambar atau bertekstur, pakai PNG yang sudah berlatar transparan."
-}
-]
+ "faq": [
+  {
+   "w": "jual",
+   "q": "Berapa harganya?",
+   "k": "harga biaya bayar rp 69000 69rb promo berapa mahal",
+   "a": "Rp 69.000 sekali bayar, khusus untuk 100 pembeli pertama. Setelah kuota itu habis, harga akan naik."
+  },
+  {
+   "w": "jual",
+   "q": "Apa arti seumur hidup?",
+   "k": "seumur hidup lifetime selamanya langganan bulanan berulang",
+   "a": "Akses tanpa biaya berulang, termasuk perbaikan dan pembaruan selama aplikasi ini dijual dan dikembangkan."
+  },
+  {
+   "w": "jual",
+   "q": "Bagaimana cara membeli?",
+   "k": "beli membeli pembelian pesan order bayar transfer cara",
+   "a": "1. Klik tombol beli di halaman penjualan, kamu diarahkan ke WhatsApp kami.\n2. Lakukan pembayaran.\n3. Kirim email Gmail yang akan kamu pakai untuk login.\n4. Setelah emailnya kami daftarkan (sekitar 5-10 menit), kamu menerima link dan cara masuk."
+  },
+  {
+   "w": "jual",
+   "q": "Apakah ada biaya per video?",
+   "k": "biaya per video bayar tambahan kuota gratis",
+   "a": "Dari kami tidak ada. Biaya yang mungkin muncul hanya dari penyedia AI yang kamu pakai (misalnya batas pemakaian akun AI atau kuota suara Gemini), dan itu mengikuti aturan mereka."
+  },
+  {
+   "w": "jual",
+   "q": "Apa yang perlu disiapkan?",
+   "k": "siapkan butuh perlu syarat persyaratan akun ai chatgpt claude gemini kunci api key",
+   "a": "Kamu butuh: (1) akun email Gmail untuk login, (2) akun AI chat seperti Claude, ChatGPT, atau Gemini untuk membuat naskah dan animasi, dan (3) kunci Gemini sendiri bila ingin membuat suara. Batas pemakaian AI mengikuti aturan penyedianya."
+  },
+  {
+   "w": "jual",
+   "q": "Perlu bisa edit video?",
+   "k": "edit editing skill pemula bisa awam mudah",
+   "a": "Tidak. Kamu hanya perlu bisa menyalin dan menempel teks ke AI. Panduan ada di layar."
+  },
+  {
+   "w": "jual",
+   "q": "Bisa dipakai di HP?",
+   "k": "hp handphone android iphone ponsel smartphone laptop komputer perangkat",
+   "a": "Bisa dibuka di HP, tetapi membuat video (ekspor) paling lancar di komputer dengan Chrome atau Edge terbaru. Video panjang di HP lama bisa lambat."
+  },
+  {
+   "w": "jual",
+   "q": "Apakah hasilnya selalu sesuai naskah?",
+   "k": "hasil kualitas sesuai naskah bagus jelek gambar",
+   "a": "Gambar dibuat oleh AI dari naskahmu, jadi kualitasnya tergantung AI yang dipakai dan naskahnya. Kamu bisa memberi ide gambar sendiri dan merevisi adegan yang kurang pas, satu per satu."
+  },
+  {
+   "w": "jual",
+   "q": "Boleh dipakai untuk jualan atau konten berbayar?",
+   "k": "komersial jualan jual monetisasi iklan bisnis konten berbayar boleh lisensi",
+   "a": "Video yang kamu buat boleh kamu pakai. Pastikan juga mengikuti syarat layanan AI dan suara yang kamu gunakan."
+  },
+  {
+   "w": "jual",
+   "q": "Bagaimana kalau tidak bisa dipakai? Apakah ada refund?",
+   "k": "refund kembali uang kembalikan garansi tidak bisa rusak batal pengembalian",
+   "a": "Hubungi kami lewat WhatsApp. Kalau aplikasi tetap tidak bisa berjalan di perangkatmu setelah dibantu, pembayaran bisa dikembalikan."
+  },
+  {
+   "w": "all",
+   "q": "Apakah naskah dan kunci API saya aman?",
+   "k": "aman privasi data kunci api key naskah disimpan simpan hapus ingat",
+   "a": "Video dibuat di browsermu. Naskah hanya dikirim ke AI yang kamu pilih. Kunci API hanya tersimpan di browsermu kalau kamu mencentang \"Ingat kunci\", dan bisa dihapus kapan saja lewat tombol Hapus kunci."
+  },
+  {
+   "w": "all",
+   "q": "Apakah ada musik atau efek suara?",
+   "k": "musik efek suara sound backsound bgm lagu",
+   "a": "Belum ada. Kamu bisa menambahkan musik di aplikasi editing atau saat mengunggah ke TikTok, Reels, atau Shorts."
+  },
+  {
+   "w": "all",
+   "q": "Apakah bisa animasi 3D?",
+   "k": "3d tiga dimensi animasi karakter",
+   "a": "Saat ini hanya animasi 2D bergaya motion. Animasi 3D belum tersedia."
+  },
+  {
+   "w": "app",
+   "q": "Bagaimana cara masuk ke aplikasi?",
+   "k": "login masuk cara akses google email password daftar",
+   "a": "Buka link aplikasi di Chrome atau Safari. Klik Masuk dengan Google dan pilih akun Gmail yang kamu daftarkan saat membeli. Atau klik Daftar dengan email yang sama, lalu buka email verifikasi dan klik linknya, kemudian kembali dan klik Masuk."
+  },
+  {
+   "w": "app",
+   "q": "Login Google gagal atau error di HP",
+   "k": "login google gagal error hp iphone android whatsapp popup diblokir initial state safari chrome tidak bisa masuk",
+   "a": "Biasanya karena link dibuka dari dalam WhatsApp atau Instagram. Buka linknya di Chrome atau Safari (klik titik tiga, pilih Buka di browser). Kalau masih gagal, pakai Daftar atau Masuk dengan email dan password."
+  },
+  {
+   "w": "app",
+   "q": "Muncul pesan email belum terdaftar sebagai pembeli",
+   "k": "belum terdaftar pembeli ditolak tidak ditemukan email salah akun tidak bisa masuk",
+   "a": "Pastikan kamu memakai email yang sama dengan yang kamu kirim ke kami saat membeli. Kalau sudah benar tapi tetap ditolak, tunggu sekitar 5-10 menit setelah emailnya kami daftarkan, lalu coba lagi. Kalau masih sama, hubungi kami lewat WhatsApp."
+  },
+  {
+   "w": "app",
+   "q": "Email verifikasi tidak masuk",
+   "k": "verifikasi email tidak masuk link konfirmasi spam kotak masuk belum diverifikasi",
+   "a": "Tunggu beberapa menit, lalu cek folder Spam atau Promosi. Setelah mengklik link verifikasi, kembali ke aplikasi dan klik Masuk. Kalau tetap tidak ada, hubungi kami."
+  },
+  {
+   "w": "app",
+   "q": "Lupa password",
+   "k": "lupa password sandi reset ganti kata sandi",
+   "a": "Isi emailmu di kolom Email, lalu klik Lupa password. Link reset dikirim ke email itu (cek juga folder Spam). Atau langsung pakai Masuk dengan Google."
+  },
+  {
+   "w": "app",
+   "q": "Bagaimana cara mengganti email login?",
+   "k": "ganti email pindah akun baru ubah email login",
+   "a": "Hubungi kami lewat WhatsApp dan kirim email barumu. Kami daftarkan emailnya, lalu kamu bisa masuk dengan email baru itu."
+  },
+  {
+   "w": "app",
+   "q": "Muncul pesan akses tidak aktif atau kedaluwarsa",
+   "k": "tidak aktif kedaluwarsa expired dicabut akses habis nonaktif",
+   "a": "Artinya akses untuk email atau kode itu sedang dinonaktifkan. Hubungi kami lewat WhatsApp untuk dicek."
+  },
+  {
+   "w": "app",
+   "q": "Bagaimana cara membuat kunci Gemini?",
+   "k": "kunci gemini api key buat membuat cara dapat ai studio google bikin dapatkan daftar mengambil",
+   "a": "1. Buka aistudio.google.com/apikey dan login dengan akun Google.\n2. Klik Create API key.\n3. Salin kuncinya.\n4. Tempel di langkah 2 (Suara) di aplikasi. Centang Ingat kunci kalau mau tersimpan di browser itu saja."
+  },
+  {
+   "w": "app",
+   "q": "Tidak bisa terhubung ke Gemini",
+   "k": "gemini tidak bisa terhubung gagal koneksi error kunci salah invalid api",
+   "a": "Cek: (1) kunci disalin lengkap, tanpa spasi, (2) internet aktif, (3) aplikasi dibuka langsung di Chrome atau Safari, bukan dari dalam aplikasi lain, (4) matikan pemblokir iklan atau VPN sementara. Lalu coba lagi."
+  },
+  {
+   "w": "app",
+   "q": "Pembuatan suara berhenti di tengah",
+   "k": "suara berhenti kuota habis limit batas harian gemini tts tengah adegan stop",
+   "a": "Gemini membatasi pemakaian gratis per menit dan per hari. Aplikasi menunggu otomatis lalu melanjutkan. Suara yang sudah jadi tersimpan dan tidak dibuat ulang. Kalau batas harian habis, lanjutkan besok atau pakai kunci dari akun Google lain."
+  },
+  {
+   "w": "app",
+   "q": "Suara membacakan instruksi gaya atau terdengar aneh",
+   "k": "suara membaca instruksi arahan gaya nada aneh salah dibacakan",
+   "a": "Coba pilih nada lain atau kosongkan kolom arahan tambahan, lalu buat suara adegan itu lagi. Aplikasi sudah otomatis mencoba ulang tanpa instruksi kalau suaranya terlalu panjang."
+  },
+  {
+   "w": "app",
+   "q": "Bagaimana alur membuat video?",
+   "k": "alur langkah cara membuat video tutorial mulai panduan",
+   "a": "Ada 5 langkah: 1) isi tema dan naskah, pilih gaya, 2) pilih suara, 3) kirim ke AI dan tempel jawabannya untuk animasi, 4) periksa hasilnya, 5) ekspor MP4."
+  },
+  {
+   "w": "app",
+   "q": "Bagaimana cara mengirim ke AI dan menempel jawabannya?",
+   "k": "kirim ai prompt tempel paste jawaban salin copy claude chatgpt gemini ctrl v",
+   "a": "Pilih AI yang kamu punya, klik Kirim. Prompt tersalin otomatis, buka chat AI-nya lalu tempel (Ctrl+V atau tahan lama di HP). Tunggu jawaban AI selesai, salin semua jawabannya, lalu tempel di kotak jawaban di aplikasi."
+  },
+  {
+   "w": "app",
+   "q": "Adegan menampilkan error atau tidak ada animasi",
+   "k": "adegan error animasi bermasalah tidak ada kosong rusak perbaiki ulang",
+   "a": "Buka langkah 3 dan 4, kirim ulang hanya adegan yang bermasalah ke AI, lalu tempel jawabannya lagi. Pastikan jawaban AI ditempel utuh."
+  },
+  {
+   "w": "app",
+   "q": "Gambar tidak sesuai dengan naskah",
+   "k": "gambar tidak sesuai naskah salah ide revisi ubah jelek",
+   "a": "Tulis ide gambar sendiri untuk adegan itu (kolom ide), lalu kirim ulang adegan tersebut ke AI. Kamu bisa merevisi satu adegan tanpa mengulang yang lain."
+  },
+  {
+   "w": "app",
+   "q": "Subtitle terpotong atau tidak kelihatan",
+   "k": "subtitle takarir teks terpotong tidak kelihatan bawah panjang kalimat",
+   "a": "Subtitle sekarang otomatis naik dan kalimat panjang dipecah per bagian. Untuk hasil terbaik, buat satu baris naskah tidak lebih dari sekitar 12 kata."
+  },
+  {
+   "w": "app",
+   "q": "Ekspor MP4 gagal atau lambat",
+   "k": "ekspor export mp4 gagal lambat unduh download video lama macet tidak bisa",
+   "a": "Pakai Chrome atau Edge terbaru di komputer. Jangan tutup atau pindah tab saat proses. Pilih 720p (1280 x 720 untuk video lebar) supaya lebih cepat. Video panjang di HP lama memang bisa lambat."
+  },
+  {
+   "w": "app",
+   "q": "Video hasil tidak ada suaranya",
+   "k": "video tidak ada suara bisu senyap audio hilang",
+   "a": "Pastikan suara sudah dibuat di langkah 2 sebelum ekspor, dan volume perangkat tidak mati. Putar dulu di pratinjau aplikasi untuk memastikan suaranya ada."
+  },
+  {
+   "w": "app",
+   "q": "Berapa maksimal adegan dan durasi video?",
+   "k": "maksimal batas adegan durasi panjang video berapa lama detik menit",
+   "a": "Maksimal 20 adegan per video. Durasi bisa diatur otomatis dari suara, atau manual antara 10 sampai 300 detik."
+  },
+  {
+   "w": "app",
+   "q": "Bolehkah akun dibagikan ke orang lain?",
+   "k": "bagikan berbagi akun orang lain teman share pinjam",
+   "a": "Akses berlaku untuk email yang didaftarkan. Mohon tidak membagikan akun. Akses yang disalahgunakan bisa dinonaktifkan."
+  },
+  {
+   "w": "app",
+   "q": "Aplikasi tidak mau terbuka atau layar kosong",
+   "k": "tidak terbuka layar kosong putih blank loading macet muat ulang refresh",
+   "a": "Muat ulang halaman, lalu coba Chrome terbaru. Matikan pemblokir iklan atau VPN sementara. Kalau masih sama, kirim screenshot ke WhatsApp kami."
+  },
+  {
+   "w": "app",
+   "q": "Bagaimana cara memakai gambar karakter sendiri?",
+   "k": "gambar karakter master referensi unggah upload foto tokoh stabil konsisten wajah sama pendukung",
+   "a": "Di langkah 1, buka bagian \"Gambar karakter dan logo\". Unggah gambar karakter dan benda pendukung (PNG berlatar transparan paling bagus), beri nama pendek dan keterangan, misalnya \"anak laki-laki berbaju biru\". Lalu kirim adegan ke AI seperti biasa: nama dan keterangan gambar ikut dikirim, dan AI memakai gambar itu apa adanya supaya tampilannya sama di semua adegan.\nCatatan: gambar bergerak seperti sticker (geser, membal, membalik, memutar, membesar). Tangan dan kaki di dalam gambar tidak ikut bergerak. Gambar tidak tersimpan kalau halaman ditutup, jadi unggah lagi saat membuka aplikasi."
+  },
+  {
+   "w": "app",
+   "q": "Gambar karakter tidak muncul di animasi",
+   "k": "gambar karakter tidak muncul hilang tidak dipakai ai tidak ikut animasi referensi",
+   "a": "Pastikan gambarnya diunggah sebelum kamu mengirim adegan ke AI. Adegan yang dibuat sebelum gambar diunggah perlu dikirim ulang supaya AI memakainya. Pastikan juga nama gambar pendek dan tanpa spasi, dan keterangannya jelas. Kalau AI tidak memakainya, tulis di kolom ide adegan: pakai gambar dengan nama itu."
+  },
+  {
+   "w": "app",
+   "q": "Bagaimana cara menambahkan logo ke video?",
+   "k": "logo watermark tambah pasang tempel capcut merek brand tanda air",
+   "a": "Di langkah 1, buka \"Gambar karakter dan logo\", lalu pilih logo di bagian 2. Atur posisi, ukuran, dan transparansi. Logo muncul di pratinjau dan ikut tertanam di video MP4, jadi tidak perlu edit lagi di CapCut. Posisi atas disarankan supaya tidak menabrak subtitle. Logo tidak tersimpan kalau halaman ditutup, jadi pasang lagi sebelum ekspor."
+  },
+  {
+   "w": "app",
+   "q": "Latar putih di gambar atau logo terlihat kotak",
+   "k": "latar putih kotak background transparan hapus polos png jpg",
+   "a": "Centang \"Hapus latar polos\" di samping gambar atau logo tersebut. Ini bekerja untuk latar satu warna rata. Kalau latarnya bergambar atau bertekstur, pakai PNG yang sudah berlatar transparan."
+  },
+  {
+   "w": "app",
+   "q": "Apakah bisa membuat video lebar 16:9 (YouTube)?",
+   "k": "16:9 lebar landscape youtube horizontal presentasi ukuran rasio tegak 9:16",
+   "a": "Bisa. Di langkah 1, pada kolom Ukuran video, pilih Lebar 16:9. Pratinjau, takarir, logo, dan perintah ke AI ikut menyesuaikan. Saat ekspor tersedia 1280 x 720 atau 1920 x 1080. Pilih ukuran SEBELUM meminta AI membuat animasi. Kalau diganti sesudahnya, minta AI membuat ulang animasinya supaya susunan gambarnya pas."
+  },
+  {
+   "w": "app",
+   "q": "Bagaimana cara keluar (logout) dari aplikasi?",
+   "k": "keluar logout sign out ganti akun log out",
+   "a": "Klik tombol Keluar di bagian atas aplikasi. Setelah itu halaman terkunci lagi dan kamu perlu masuk kembali. Akses juga diperiksa ulang secara berkala. Kalau akses dinonaktifkan atau habis, halaman akan terkunci otomatis walau tab masih terbuka."
+  },
+  {
+   "w": "app",
+   "q": "Nama aplikasinya Nana Studio Motion atau Studio Motion Pro?",
+   "k": "nama studio motion pro nana ganti",
+   "a": "Namanya sekarang Nana Studio Motion. Isi dan cara pakainya sama seperti sebelumnya."
+  }
+ ]
 }
